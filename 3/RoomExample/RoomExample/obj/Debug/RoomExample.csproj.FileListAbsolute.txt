@@ -1,0 +1,36 @@
+C:\Users\29349086\source\repos\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\Users\29349086\source\repos\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\Users\29349086\source\repos\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\Users\29349086\source\repos\RoomExample\RoomExample\bin\Debug\RoomLibrary.dll
+C:\Users\29349086\source\repos\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.csprojAssemblyReference.cache
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\Users\29349086\source\repos\RoomExample\RoomExample\obj\Debug\RoomExample.pdb
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\bin\Debug\RoomLibrary.dll
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.AssemblyReference.cache
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\Users\rusla\OneDrive\Рабочий стол\RoomExample\RoomExample\obj\Debug\RoomExample.pdb

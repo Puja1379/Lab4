@@ -1,0 +1,5 @@
+C:\Users\29349086\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\29349086\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\29349086\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\29349086\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\29349086\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
